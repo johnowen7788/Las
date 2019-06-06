@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<datas>
+    <data id="1">
+        <directory>2019年05月</directory>
+        <type>1</type>
+    </data>
+    <data id="2">
+        <directory>2019年04月</directory>
+        <type>1</type>
+    </data>
+    <data id="3">
+        <directory>2018年05月</directory>
+        <type>2</type>
+    </data>
+</datas>
